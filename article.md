@@ -106,13 +106,12 @@ scrutinising AI and algorithmic toolboxes for the multimodal study of the past.
 <!-- #endregion -->
 
 ```python editable=true slideshow={"slide_type": ""} tags=["cover"]
-display(Image("./media/img1.png", width=1000))
+display(Image("./media/img1.jpg"))
 ```
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-Gunnar-*"]
 display(
-  Image("./media/skoglund.png"),
-  width=1000,
+  Image("./media/skoglund.jpg"),
   metadata = {
   "jdh": {
     "module": "object",
@@ -161,7 +160,7 @@ during each particular sequence.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-first-newsreel-*"]
 display(
-  Image("./media/img2.png"),
+  Image("./media/img2.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -291,7 +290,7 @@ and algorithmic toolboxes for the study of the past.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-SF-facilities-*"]
 display(
-  Image("./media/img3.png"),
+  Image("./media/img3.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -351,7 +350,7 @@ television.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-seklet-*"]
 display(
-  Image("./media/img4.png"), 
+  Image("./media/img4.jpg"), 
   metadata={
     "jdh": {
       "module": "object",
@@ -516,7 +515,7 @@ would effectively streamline research usage"
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-ALB-*"]
 display(
-  Image("./media/img5.png"),
+  Image("./media/img5.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -573,7 +572,7 @@ aware that our examined film material also contains other genres.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-box-*"]
 display(
-  Image("./media/img6.png"),
+  Image("./media/img6.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -1048,7 +1047,7 @@ def get_audio_bars():
   if not local:
     return fig
 
-  file = root / "media" / "audio-bars.png"
+  file = root / "media" / "audio-bars.jpg"
 
   fig.write_image(file)
 
@@ -1120,7 +1119,7 @@ def get_audio_line():
   if not local:
     return fig
 
-  file = root / "media" / "audio_shares.png"
+  file = root / "media" / "audio_shares.jpg"
 
   fig.write_image(file)
 
@@ -1494,7 +1493,7 @@ def plot_audio_mix(per_year_mix, top_overall_df):
   if not local:
     return fig
 
-  file = root / "media" / "audiomix.png"
+  file = root / "media" / "audiomix.jpg"
 
   fig.write_image(file)
 
@@ -1795,7 +1794,7 @@ def plot_x_pairing(
   if not local:
     return fig
 
-  file = root / "media" / "vehiclepairs.png"
+  file = root / "media" / "vehiclepairs.jpg"
 
   fig.write_image(file)
 
@@ -2057,7 +2056,7 @@ def plot_top_pair_share(
   if not local:
     return fig
 
-  file = root / "media" / "pair-overlap.png"
+  file = root / "media" / "pair-overlap.jpg"
 
   fig.write_image(file)
 
@@ -2201,7 +2200,7 @@ def create_line_plot_percent(pivot_pct, year_min):
   if not local:
     return fig
 
-  file = root / "media" / "top-audio.png"
+  file = root / "media" / "top-audio.jpg"
 
   fig.write_image(file)
 
@@ -2261,7 +2260,7 @@ attention.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-blueprint-*"]
 display(
-  Image("./media/img7.png"),
+  Image("./media/img7.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -2323,7 +2322,7 @@ describing the transcription pipeline, and exploring the intertitle contents.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-military-*"]
 display(
-  Image("./media/img8.png"),
+  Image("./media/img8.jpg"),
   width=1000,
   metadata={
     "jdh": {
@@ -2397,7 +2396,7 @@ can be read, and now also in digital format.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-ski-*"]
 display(
-  Image("./media/img9.png"),
+  Image("./media/img9.jpg"),
   width=1000,
   metadata={
     "jdh": {
@@ -2591,8 +2590,7 @@ def make_terrier():
 
 
 display(
-  Image("./media/1s.grid.png") if local else make_terrier(),
-  width=1000,
+  Image("./media/1s.grid.jpg") if local else make_terrier(),
   metadata={
     "jdh": {
       "module": "object",
@@ -3184,7 +3182,7 @@ def create_combined_plot(df):
   if local:
     return fig
 
-  file = root / "media" / "intertitle-trends.png"
+  file = root / "media" / "intertitle-trends.jpg"
 
   fig.write_image(file)
 
@@ -3193,7 +3191,6 @@ def create_combined_plot(df):
 
 display(
   create_combined_plot(corpus_df),
-  width=1000,
   metadata={
     "jdh": {
       "module": "object",
@@ -3410,7 +3407,7 @@ def create_dual_axis_plot(color_by="#E57373", color_staden="#7D8B7D"):
   if not local:
     return fig
 
-  file = root / "media" / "by-staden.png"
+  file = root / "media" / "by-staden.jpg"
 
   fig.write_image(file)
 
@@ -3481,7 +3478,7 @@ large-scale text mining, to close qualitative analysis of particular newsreels.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-telephone-*"]
 display(
-  Image("./media/img10.png", width=1000),
+  Image("./media/img10.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -3799,7 +3796,7 @@ Journal Digital Corpus Map, https://modern36.github.io/jdc-map/
 
 def mk_map():
   if local:
-    return Image("./media/jdc-map.png")
+    return Image("./media/jdc-map.jpg")
   dist = data / "dist"
   map_widget_port = 8822
 
@@ -4561,7 +4558,7 @@ def geocode_verified_entities(force_refresh: bool = False) -> None:
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-sefyr-*"]
 display(
-  Image("./media/img11.png", width=1000),
+  Image("./media/img11.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -4696,7 +4693,7 @@ lending modernity and excitement to events sponsored by two media companies.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-advert-*"]
 display(
-  Image("./media/img12.png", width=1000),
+  Image("./media/img12.jpg"),
   metadata={
     "jdh": {
       "module": "object",
@@ -4867,7 +4864,7 @@ def create_proportion_line_chart(data):
   if not local:
     return fig
 
-  file = root / "media" / "STHLM-share.png"
+  file = root / "media" / "STHLM-share.jpg"
 
   fig.write_image(file)
 
@@ -5229,7 +5226,7 @@ def create_percentage_stacked_bars(data_by_year, regions):
   if not local:
     return fig
 
-  file = root / "media" / "regions-share.png"
+  file = root / "media" / "regions-share.jpg"
 
   fig.write_image(file)
 
@@ -5318,7 +5315,7 @@ Swede might reconnect with ancestral vitality.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-wilhelm-*"]
 display(
-  Image("./media/img13.png", width=1000),
+  Image("./media/img13.jpg"),
   metadata={
     "jdh": {
       "module": "object",
