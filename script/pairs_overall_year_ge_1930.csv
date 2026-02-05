@@ -1,0 +1,284 @@
+audio_label,vision_label,seconds,videos
+vehicle,car,4684.0,260
+vehicle,vehicle,2651.0,234
+crowd,crowd,2016.0,113
+vehicle,truck,1856.0,144
+explosion,explosion,1732.0,112
+car,car,1436.0,106
+vehicle,carriage,1357.0,68
+aircraft,airplane,1076.0,82
+artillery fire,fire,679.0,67
+car,vehicle,633.0,79
+machine gun,gun,588.0,51
+"boat, water vehicle",water,525.0,53
+door,door,518.0,48
+aircraft,plane,511.0,54
+ding,building,408.0,59
+vehicle,bushe,402.0,50
+"boat, water vehicle",boat,390.0,36
+vehicle,cart,305.0,45
+sliding door,door,304.0,32
+vehicle,scarf,299.0,52
+car,carriage,288.0,23
+dog,dog,283.0,16
+"propeller, airscrew",propeller,263.0,25
+aircraft,aircraft,258.0,36
+horse,horse,245.0,20
+bird,bird,199.0,14
+crow,crowd,191.0,21
+"vehicle horn, car horn, honking",car,190.0,38
+animal,animal,182.0,24
+sheep,sheep,170.0,6
+water,water,166.0,14
+"vehicle horn, car horn, honking",vehicle,157.0,30
+"boat, water vehicle",car,157.0,20
+bell,bell,144.0,20
+train,train,143.0,15
+"baby cry, infant cry",baby,143.0,9
+"fixed-wing aircraft, airplane",airplane,135.0,21
+vehicle,sidecar,131.0,10
+vehicle,fire truck,124.0,11
+"vehicle horn, car horn, honking",truck,117.0,23
+vehicle,train car,111.0,9
+"boat, water vehicle",vehicle,110.0,21
+rain on surface,train,108.0,16
+engine,engine,107.0,14
+motorcycle,motorcycle,106.0,11
+ocean,ocean,105.0,15
+vehicle,bush,98.0,17
+cat,cat,90.0,4
+church bell,bell,86.0,11
+car passing by,car,83.0,13
+church bell,church,82.0,14
+run,runner,79.0,9
+"vehicle horn, car horn, honking",carriage,77.0,9
+television,television,73.0,13
+"fixed-wing aircraft, airplane",plane,67.0,12
+rain on surface,surface,67.0,9
+"railroad car, train wagon",train,65.0,10
+emergency vehicle,car,65.0,9
+vehicle,aircraft carrier,61.0,8
+"vehicle horn, car horn, honking",horn,57.0,4
+"chicken, rooster",chicken,55.0,6
+artillery fire,firework,52.0,4
+car,scarf,49.0,10
+machine gun,machine,47.0,9
+medium engine (mid frequency),engine,47.0,6
+ding-dong,building,46.0,8
+"fixed-wing aircraft, airplane",wing,45.0,10
+"fixed-wing aircraft, airplane",aircraft,45.0,8
+typewriter,typewriter,45.0,5
+"ice cream truck, ice cream van",ice,44.0,9
+wind noise (microphone),window,42.0,10
+owl,bowl,42.0,9
+rain,train,42.0,8
+"vehicle horn, car horn, honking",scarf,39.0,8
+machine gun,machine gun,37.0,7
+"boat, water vehicle",sailboat,37.0,5
+"ice cream truck, ice cream van",truck,36.0,6
+"railroad car, train wagon",car,36.0,5
+wind,window,35.0,8
+car,cart,34.0,7
+"vehicle horn, car horn, honking",cart,32.0,6
+"motorboat, speedboat",motorboat,31.0,4
+rail transport,railing,31.0,4
+vehicle,race car,30.0,4
+car,sidecar,29.0,5
+car passing by,vehicle,29.0,5
+telephone bell ringing,telephone,29.0,5
+"boat, water vehicle",motorboat,27.0,4
+emergency vehicle,vehicle,25.0,5
+truck,truck,25.0,3
+vehicle,firetruck,25.0,3
+"baby cry, infant cry",crying,25.0,1
+"boat, water vehicle",scarf,24.0,5
+vehicle,cargo,22.0,3
+"vehicle horn, car horn, honking",bushe,21.0,4
+bell,bell tower,21.0,3
+church bell,bell tower,21.0,3
+emergency vehicle,truck,20.0,4
+vehicle,carpet,20.0,4
+"vehicle horn, car horn, honking",carpet,20.0,3
+duck,duck,20.0,2
+hammer,hammer,20.0,2
+telephone,telephone,19.0,4
+wood,wood,19.0,4
+"railroad car, train wagon",vehicle,19.0,3
+whimper (dog),dog,18.0,3
+"railroad car, train wagon",cart,17.0,3
+vehicle,cable car,17.0,3
+"boat, water vehicle",waterfall,17.0,2
+vehicle,headscarf,17.0,2
+heavy engine (low frequency),engine,16.0,3
+train,train track,16.0,3
+vehicle,dump truck,16.0,2
+"walk, footsteps",sidewalk,16.0,1
+zipper (clothing),clothing,15.0,5
+bicycle bell,bell,15.0,3
+stream,stream,15.0,3
+vehicle,toy car,15.0,3
+alarm clock,clock,15.0,2
+"canidae, dogs, wolves",dog,15.0,2
+rain on surface,rain,15.0,2
+waterfall,waterfall,15.0,2
+"chicken, rooster",rooster,15.0,1
+"crying, sobbing",crying,15.0,1
+liquid,liquid,15.0,1
+pump (liquid),liquid,15.0,1
+"fire engine, fire truck (siren)",engine,14.0,3
+shuffling cards,scarf,14.0,3
+single-lens reflex camera,camera,14.0,3
+aircraft,seaplane,14.0,1
+helicopter,helicopter,12.0,2
+moo,moon,11.0,3
+emergency vehicle,carriage,11.0,2
+vehicle,horse-drawn carriage,11.0,2
+vehicle,medical vehicle,11.0,2
+car,aircraft carrier,10.0,3
+aircraft,planet,10.0,2
+"boat, water vehicle",bushe,10.0,2
+"boat, water vehicle",truck,10.0,2
+car,race car,10.0,2
+power tool,tool,10.0,2
+"railroad car, train wagon",train track,10.0,2
+rain on surface,train car,10.0,2
+tick-tock,stick,10.0,2
+train,train car,10.0,2
+vehicle,buse,10.0,2
+vehicle,cartridge,10.0,2
+"vehicle horn, car horn, honking",firetruck,10.0,2
+"boat, water vehicle",sidecar,10.0,1
+emergency vehicle,fire truck,10.0,1
+jet engine,engine,10.0,1
+turkey,turkey,10.0,1
+vehicle,police car,9.0,3
+vehicle,streetcar,9.0,2
+car,cartridge,8.0,2
+"fire engine, fire truck (siren)",fire,8.0,2
+rain on surface,trainer,8.0,2
+"vehicle horn, car horn, honking",fire truck,8.0,1
+"boat, water vehicle",cart,7.0,2
+rain on surface,wooden surface,7.0,2
+artillery fire,firefighter,6.0,1
+"boat, water vehicle",aircraft carrier,6.0,1
+car,cargo,6.0,1
+car,horse-drawn carriage,6.0,1
+"cattle, bovinae",cat,6.0,1
+emergency vehicle,aircraft carrier,6.0,1
+engine starting,engine,6.0,1
+"ice cream truck, ice cream van",iceberg,6.0,1
+"ice cream truck, ice cream van",officer,6.0,1
+machine gun,handgun,6.0,1
+police car (siren),carriage,6.0,1
+rain on surface,train track,6.0,1
+tick,candlestick,6.0,1
+tick-tock,candlestick,6.0,1
+vehicle,a vehicle,6.0,1
+vehicle,bust,6.0,1
+"waves, surf",surface,6.0,1
+wind,windshield,6.0,1
+wind noise (microphone),windshield,6.0,1
+"air horn, truck horn",truck,5.0,1
+aircraft engine,aircraft,5.0,1
+aircraft engine,airplane,5.0,1
+artillery fire,fire hydrant,5.0,1
+artillery fire,fireman,5.0,1
+bathtub (filling or washing),washing,5.0,1
+bell,metal bell,5.0,1
+bicycle,bicycle,5.0,1
+bird,bird costume,5.0,1
+"boat, water vehicle",carriage,5.0,1
+"boat, water vehicle",headscarf,5.0,1
+"boat, water vehicle",speedboat,5.0,1
+car,carousel,5.0,1
+car,toy car,5.0,1
+church bell,metal bell,5.0,1
+clapping,clapping,5.0,1
+dial tone,dial,5.0,1
+ding,scaffolding,5.0,1
+"dishes, pots, and pans",candle,5.0,1
+"dishes, pots, and pans",wristband,5.0,1
+door,wooden door,5.0,1
+emergency vehicle,bushe,5.0,1
+emergency vehicle,carving,5.0,1
+explosion,nuclear explosion,5.0,1
+fill (with liquid),liquid,5.0,1
+goose,goose,5.0,1
+hoot,shooting star,5.0,1
+"ice cream truck, ice cream van",ice rink,5.0,1
+"ice cream truck, ice cream van",ice skate,5.0,1
+"ice cream truck, ice cream van",police,5.0,1
+jingle bell,bell,5.0,1
+"livestock, farm animals, working animals",farmer,5.0,1
+"marimba, xylophone",xylophone,5.0,1
+"motorboat, speedboat",speedboat,5.0,1
+police car (siren),car,5.0,1
+police car (siren),vehicle,5.0,1
+"railroad car, train wagon",cardboard,5.0,1
+"railroad car, train wagon",cargo,5.0,1
+"railroad car, train wagon",carriage,5.0,1
+"railroad car, train wagon",freight car,5.0,1
+rain,grain,5.0,1
+rain,rain,5.0,1
+rain on surface,grain,5.0,1
+rain on surface,wet surface,5.0,1
+"rowboat, canoe, kayak",canoe,5.0,1
+sewing machine,machine,5.0,1
+sewing machine,machinery,5.0,1
+sewing machine,sewing machine,5.0,1
+shuffling cards,car,5.0,1
+sliding door,wooden door,5.0,1
+steam,steam,5.0,1
+steam whistle,steam,5.0,1
+telephone bell ringing,barbell,5.0,1
+tick,stick,5.0,1
+trombone,trombone,5.0,1
+tuning fork,fork,5.0,1
+vehicle,car seat,5.0,1
+vehicle,caraf,5.0,1
+vehicle,cardboard,5.0,1
+vehicle,carousel,5.0,1
+vehicle,freight car,5.0,1
+vehicle,papercard,5.0,1
+vehicle,wooden cart,5.0,1
+"vehicle horn, car horn, honking",buse,5.0,1
+"vehicle horn, car horn, honking",cable car,5.0,1
+"vehicle horn, car horn, honking",card,5.0,1
+"vehicle horn, car horn, honking",carving,5.0,1
+"vehicle horn, car horn, honking",number card,5.0,1
+"vehicle horn, car horn, honking",toy car,5.0,1
+water,water stream,5.0,1
+white noise,white cloth,5.0,1
+wind,wind,5.0,1
+wind noise (microphone),wind,5.0,1
+aircraft,aircraft carrier,4.0,1
+"boat, water vehicle",bush,4.0,1
+"boat, water vehicle",rowboat,4.0,1
+"boat, water vehicle",streetcar,4.0,1
+clip-clop,clipboard,4.0,1
+ding,decorative molding,4.0,1
+french horn,horn,4.0,1
+"ice cream truck, ice cream van",device,4.0,1
+owl,owl,4.0,1
+rain,terrain,4.0,1
+rain on surface,terrain,4.0,1
+vehicle,a truck,4.0,1
+vehicle,armored car,4.0,1
+vehicle,card,4.0,1
+vehicle,carol,4.0,1
+vehicle,caroler,4.0,1
+"vehicle horn, car horn, honking",bush,4.0,1
+"vehicle horn, car horn, honking",cargo,4.0,1
+"vehicle horn, car horn, honking",police car,4.0,1
+"vehicle horn, car horn, honking",train car,4.0,1
+wind noise (microphone),microphone,4.0,1
+artillery fire,firetruck,2.0,1
+bird,two bird,2.0,1
+car,police car,2.0,1
+machine gun,machinery,2.0,1
+rain,trainer,2.0,1
+rain on surface,drain,2.0,1
+steam whistle,steam pot,2.0,1
+vehicle,armored vehicle,2.0,1
+vehicle,cargo net,2.0,1
+wind noise (microphone),windmill,2.0,1
