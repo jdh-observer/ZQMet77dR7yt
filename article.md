@@ -34,7 +34,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
-from IPython.display import IFrame, Image, Video, display
+from IPython.display import IFrame, Image, Video, display, VimeoVideo
 from journal_digital import Corpus
 from plotly import colors
 from plotly.subplots import make_subplots
