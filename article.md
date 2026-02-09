@@ -244,8 +244,9 @@ and all speech into a time-aligned corpus we call Journal Digital Corpus
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-composition-*"]
 display(
-  Image("./media/vid1.gif") if local else Video("./media/vid1.mp4"),
-  width=1000,
+  VimeoVideo('1163214717','100%','347'),
+  #Image("./media/vid1.gif") if local else Video("./media/vid1.mp4"),
+  #width=1000,
   metadata={
     "jdh": {
       "module": "object",
@@ -427,7 +428,8 @@ foreign films
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-composition2-*"]
 display(
-  Image("./media/vid2.gif") if local else Video("./media/vid2.mp4"),
+  VimeoVideo('1163216317','100%','347'),
+  #Image("./media/vid2.gif") if local else Video("./media/vid2.mp4"),
   metadata={
     "jdh": {
       "module": "object",
@@ -616,7 +618,8 @@ materials today must still be satisfied with late 1990s low resolution copies.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-filmarkivet-*"]
 display(
-  Image("./media/vid3.gif") if local else Video("./media/vid3.mp4"),
+  VimeoVideo('1163216336','100%','347'),
+  #Image("./media/vid3.gif") if local else Video("./media/vid3.mp4"),
   metadata={
     "jdh": {
       "module": "object",
@@ -4652,7 +4655,8 @@ could foreground to visualise modern, mobile news-gathering.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-lucia-*"]
 display(
-  Image("./media/vid4.gif") if local else Video("./media/vid4.mp4"),
+  VimeoVideo('1163216385','100%','347')
+  #Image("./media/vid4.gif") if local else Video("./media/vid4.mp4"),
   width=1000,
   metadata={
     "jdh": {
