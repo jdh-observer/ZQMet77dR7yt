@@ -4655,9 +4655,9 @@ could foreground to visualise modern, mobile news-gathering.
 
 ```python editable=true slideshow={"slide_type": ""} tags=["figure-lucia-*"]
 display(
-  VimeoVideo('1163216385','100%','347')
+  VimeoVideo('1163216385','100%','347'),
   #Image("./media/vid4.gif") if local else Video("./media/vid4.mp4"),
-  width=1000,
+  #width=1000,
   metadata={
     "jdh": {
       "module": "object",
