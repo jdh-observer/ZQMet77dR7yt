@@ -8,9 +8,9 @@ jupyter:
       format_version: '1.3'
       jupytext_version: 1.19.1
   kernelspec:
-    display_name: Python 3 (ipykernel)
+    display_name: Python (ZQMet77dR7yt)
     language: python
-    name: python3
+    name: zqmet77dr7yt
 ---
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["title"] -->
